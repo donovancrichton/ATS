@@ -1,5 +1,5 @@
 ## Donovan Crichton 
-Brisbane QLD 4030 | (+61) 439 542 143 | fp@donovancrichton.com 
+Brisbane QLD 4030 | (+61) 439 542 143 | fp@donovancrichton.com | [github](https://github.com/donovancrichton)
 ### Professional Summary
 Applied Formal Methods Researcher and software engineer specializing in dependent type theory, software verification, 
 and compiler development. Currently completing a PhD in Computer Science with a strong focus on advanced functional 
