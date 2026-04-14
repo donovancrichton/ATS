@@ -6,6 +6,8 @@ and compiler development. Currently completing a PhD in Computer Science with a 
 programming (Idris, Haskell) and the formalization of complex type theories. 
 Dedicated to leveraging mathematical rigor and interactive theorem proving to build, verify, and maintain highly trusted, 
 formally correct software systems.
+### Security Clearance
+ * AGSVA Baseline (Inactive / Unsponsored — Valid until 2031)
 ### Skills
  * Languages: Idris, Haskell, Python
  * Tools & Systems: Debian Linux, Vim, Git, LATEX.
