@@ -1,5 +1,11 @@
 ## Donovan Crichton 
 Brisbane QLD 4030 | (+61) 439 542 143 | fp@donovancrichton.com 
+### Professional Summary
+Applied Formal Methods Researcher and software engineer specializing in dependent type theory, software verification, 
+and compiler development. Currently completing a PhD in Computer Science with a strong focus on advanced functional 
+programming (Idris, Haskell) and the formalization of complex type theories. 
+Dedicated to leveraging mathematical rigor and interactive theorem proving to build, verify, and maintain highly trusted, 
+formally correct software systems.
 ### Skills
  * Languages: Idris, Haskell, Python
  * Tools & Systems: Debian Linux, Vim, Git, LATEX.
