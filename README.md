@@ -49,7 +49,7 @@ formally correct software systems.
 
 ### Awards & Service
   * Awards: 
-     * Visiting Scholarship at The University of Edinburgh (2021)
+     * Research Internship at LFCS: University of Edinburgh (2021)
      * Australian Signals Directorate Co-Lab Scholarship (2020-2025)
      * ANU PhD Scholarship (2020-2025).
      * Griffith University School of ICT Graduand of the Year (2017)
